@@ -1,0 +1,5 @@
+*/*::steam-overlay
+games-util/game-device-udev-rules ~amd64
+app-editors/vscode ~amd64
+net-im/discord ~amd64
+games-util/gamemode ~amd64
